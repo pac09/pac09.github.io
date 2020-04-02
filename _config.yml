@@ -8,38 +8,43 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: A developer's noteboook                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Web developer, .NET Nicaragua co-organizer and Jedi Knight.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Developer blog, .net core, entity framework core,
+  angular, docker, microsoft sql server, portfolio,
+  software architecture, design patterns and
+  web design.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://pac09.github.io'
 
-author: your_full_name                  # change to your full name
+author: Pastor Cortes Osorno                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: pac09             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: pcortes0908            # change to your twitter username
 
+linkedin:
+  username: pastor-cortés-osorno-34a92087     # change to your linkedin username
+  
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Pastor Cortes Osorno                  # it will shows as the copyright owner in Footer
+  email: pco07@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/pcortes0908      # change to your twitter homepage
+    - https://github.com/pac09       # change to your github homepage
+    - https://www.linkedin.com/in/pastor-cortés-osorno-34a92087/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -49,7 +54,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Managua
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -78,7 +83,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: light
 
 # boolean type, global switch for ToC in posts.
 toc: true
