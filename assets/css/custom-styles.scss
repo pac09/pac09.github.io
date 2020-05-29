@@ -1,0 +1,51 @@
+---
+---
+
+.custom-section-heading {
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    background-color: #d3d3d3;
+    border-radius: 35px;
+    color: #ff0000;
+    font-size: 25px;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 15px;
+    position: absolute;
+    right: 0;
+    width: 270px;
+    text-align: center;
+    z-index: 2;
+}
+    .custom-section-heading:nth-child(2n+1) {
+        margin-top: -430px;
+    }
+    .custom-section-heading:nth-child(2n+2) {
+        margin-top: -30px;
+    }
+    .custom-section-heading:last-of-type {
+        margin-top: -40px;
+    }
+    .custom-section-heading:first-of-type {
+        margin-top: -40px;
+    }
+
+strong.personal-name {
+    color: #23334b;
+}
+
+//
+@media (max-width: 767px) {
+    .custom-laptop-code{
+        margin: 1em 0 1em 0;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    .custom-laptop-code{
+        margin-top: 5em;
+    }
+}
