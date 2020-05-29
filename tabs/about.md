@@ -4,6 +4,7 @@ output:
   html_document:
      css: font-awesome-4.4.0/css/font-awesome.css
      self_contained: yes
+     javascript: 
 
 
 # The About page
@@ -42,7 +43,7 @@ output:
 
 <p class="text-justify">At my spare time, I like playing chess, I enjoy watching tv series or movies, my favorites are: Breaking Bad, Game Of Thrones, Star Wars, Lord Of The Rings... Also, I'm mentoring three guys from my community, it's being a rewarding experience to help other people to develop skills and of course I like to learn new technologies.</p>
 
-<p class="text-justify">As a future goal, I'm finishing my own preparation to become MCSD in Web Applications (I'm already a MCSA, this is my <a href="https://www.youracclaim.com/users/pastor-cortes-osorno/badges" target="_blank">CCLAIM profile</a>) and I'm planning to study a MSc in Software Engineering, the most suitable option for me would be to study online in a part time modality, because I need to keep working.</p>
+<p class="text-justify">As a short term goal, I'm finishing my own preparation to become MCSD in Web Applications (I'm already a MCSA, this is my <a href="https://www.youracclaim.com/users/pastor-cortes-osorno/badges" target="_blank">CCLAIM profile</a>). On the other hand, as a future goal I'm planning to study a MSc in Software Engineering, most probably in a university from the United Kingdom because I'd like to have a degree from an english speaking university. I think the most suitable option for me would be to study online in a part time modality (It would take two years), but I obviously need to keep working for paying the education fees.</p>
 
 <br />
 
